@@ -9,7 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/souban_" target="blank"><img src="https://img.shields.io/twitter/follow/souban_?logo=twitter&style=for-the-badge" alt="souban_" /></a> </p>
 
-- 🌱 I’m currently learning **react.js**
+- 🥳 I’m succesfully completed  **react.js**
+- 
+- 🌱 I’m currently learning **node.js&Exprss**
 
 - 💬 Ask me about **react**
 
