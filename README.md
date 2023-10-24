@@ -11,7 +11,7 @@
 
 - 🥳 I’m succesfully completed  **react.js**
  
-- 🌱 I’m currently learning **node.js&Exprss**
+- 🌱 I’m currently learning **node.js&Express.js**
 
 - 💬 Ask me about **react**
 
