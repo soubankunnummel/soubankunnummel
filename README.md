@@ -11,7 +11,7 @@
 
 - 🥳 I’m succesfully completed  **react.js**
  
-- 🌱 I’m currently I am looking for a jobe **node.js&Express.js**
+- 🌱 I’m currently I am looking for a jobe in MERN Stack
 
 - 💬 Ask me about **react**
 
